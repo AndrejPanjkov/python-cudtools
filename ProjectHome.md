@@ -1,0 +1,1 @@
+A python module to help matplotlib use the colorblind friendly colors recommended by Masataka Okabe and Kei Ito at http://jfly.iam.u-tokyo.ac.jp/color/#pallet
